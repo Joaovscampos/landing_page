@@ -35,7 +35,11 @@ body {
   font-family: 'Sarala', sans-serif;
   font-weight: 400;
   font-size: 18px;
-  }
+}
+
+.cabecalho-menu-item:hover{
+  opacity: 0.5;
+}  
 
 .conteudo-principal{
   border-top: 0.4px solid  #FFF2E7;
@@ -127,11 +131,12 @@ body {
 }
 
 .rodape-imagem{
-  height: 48px;
+  height: 100px;
   display: block;
   margin: 0 auto;
 
 }
+
 
 
 
