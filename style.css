@@ -28,15 +28,14 @@ body {
 .cabecalho-menu{
  display: flex;
  gap: 32px; 
- color: antiquewhite;
 }
 
 .cabecalho-menu-item{
   font-family: 'Sarala', sans-serif;
   font-weight: 400;
   font-size: 18px;
+  color: rgb(233, 226, 217);
 }
-
 .cabecalho-menu-item:hover{
   opacity: 0.5;
 }  
