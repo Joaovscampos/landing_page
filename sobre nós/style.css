@@ -62,7 +62,7 @@ body {
   font-family: 'Righteous', cursive;
   font-weight: 400;
   font-size: 64px;
-  color: #130b04;
+  color: #f1ebe5;
   padding: 40px;
 }
 
@@ -70,8 +70,9 @@ body {
   font-family: 'Sarala', sans-serif;
   font-weight: 400;
   font-size: 24px;
-  color: #0c0c0e;
+  color: #e7e7f1;
   padding: 10px;
+  margin: 40px;
 }
 
 .conteudo-principal-escrito-botao{
